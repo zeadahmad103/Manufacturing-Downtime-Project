@@ -1,83 +1,90 @@
-🏭 Manufacturing Downtime Analysis
+<div align="center">
 
-DEPI Graduation Project | Data Analysis Track
+  <h1>🏭 Manufacturing Downtime Analysis</h1>
+  <h3>DEPI Graduation Project | Data Analysis Track</h3>
 
-📌 Project Overview
-This project focuses on analyzing manufacturing downtime to identify the main causes of production interruptions, monitor machine performance, and provide data-driven insights that help improve operational efficiency and productivity.
-The project uses Microsoft Power BI to transform manufacturing data into interactive dashboards and meaningful visualizations.
+</div>
 
+<hr>
 
-🎯 Project Objectives
-Analyze manufacturing downtime and its impact on production.
-Identify the main causes of machine downtime.
-Monitor key performance indicators (KPIs).
-Discover trends and patterns in production interruptions.
-Provide actionable insights to support data-driven decision-making.
+<h2>📌 Project Overview</h2>
 
+<p>
+  This project focuses on analyzing manufacturing downtime to identify the main causes of production interruptions, monitor machine performance, and provide data-driven insights that help improve operational efficiency and productivity.
+</p>
 
-🛠️ Tools & Technologies
+<p>
+  The project uses <strong>Microsoft Power BI</strong> to transform manufacturing data into interactive dashboards and meaningful visualizations.
+</p>
 
-Microsoft Power BI – Data visualization and interactive dashboards.
+<h2>🎯 Project Objectives</h2>
 
-Power Query – Data cleaning and transformation.
+<ul>
+  <li>Analyze manufacturing downtime and its impact on production.</li>
+  <li>Identify the main causes of machine downtime.</li>
+  <li>Monitor key performance indicators (KPIs).</li>
+  <li>Discover trends and patterns in production interruptions.</li>
+  <li>Provide actionable insights to support data-driven decision-making.</li>
+</ul>
 
-DAX – Calculated measures and KPI development.
+<h2>🛠️ Tools & Technologies</h2>
 
-Data Analysis – Exploring downtime trends and identifying performance issues.
+<ul>
+  <li><strong>Microsoft Power BI</strong> – Data visualization and interactive dashboards.</li>
+  <li><strong>Power Query</strong> – Data cleaning and transformation.</li>
+  <li><strong>DAX</strong> – Calculated measures and KPI development.</li>
+  <li><strong>Data Analysis</strong> – Exploring downtime trends and identifying performance issues.</li>
+</ul>
 
+<h2>📊 Key Analysis Areas</h2>
 
+<ul>
+  <li>Total Downtime Analysis</li>
+  <li>Downtime by Machine</li>
+  <li>Downtime by Cause</li>
+  <li>Production Performance Monitoring</li>
+  <li>Downtime Trends and Patterns</li>
+  <li>Key Performance Indicators (KPIs)</li>
+</ul>
 
-📊 Key Analysis Areas
+<h2>👥 Team Members</h2>
 
-Total Downtime Analysis
+<p>
+  This project was developed as part of the
+  <strong>Digital Egypt Pioneers Initiative (DEPI)</strong>
+  Graduation Project.
+</p>
 
-Downtime by Machine
+<ul>
+  <li>Ziad Ahmed – Team Leader</li>
+  <li>Eng. Moddather Hamada</li>
+  <li>Eng. Fathi Shehta</li>
+  <li>Eng. Mohammed Gamal</li>
+  <li>Eng. Alaa Salah</li>
+  <li>Eng. Nada Elshaer</li>
+</ul>
 
-Downtime by Cause
+<h2>📁 Project Files</h2>
 
-Production Performance Monitoring
+<p>The repository may include the following project deliverables:</p>
 
-Downtime Trends and Patterns
+<ul>
+  <li>Power BI dashboard file (.pbix)</li>
+  <li>Dataset used for analysis</li>
+  <li>Project documentation</li>
+  <li>Dashboard screenshots and insights</li>
+</ul>
 
-Key Performance Indicators (KPIs)
+<h2>🚀 Project Outcomes</h2>
 
+<p>
+  The project aims to help stakeholders understand downtime patterns,
+  identify opportunities for improvement, and make informed decisions
+  to enhance manufacturing efficiency.
+</p>
 
-👥 Team Members
+<hr>
 
-This project was developed as part of the Digital Egypt Pioneers Initiative (DEPI) Graduation Project.
+<h2>👨‍💻 Developed By</h2>
 
-Ziad Ahmed – Team Leader
-
-Eng. Moddather Hamada
-
-Eng. Fathi Shehta
-
-Eng. Mohammed Gamal
-
-Eng. Alaa Salah
-
-Eng. Nada Elshaer
-
-
-
-📁 Project Files
-
-The repository may include the following project deliverables:
-
-Power BI dashboard file (.pbix)
-
-Dataset used for analysis
-
-Project documentation
-
-Dashboard screenshots and insights
-
-
-🚀 Project Outcomes
-
-The project aims to help stakeholders understand downtime patterns, identify opportunities for improvement, and make 
-informed decisions to enhance manufacturing efficiency.
-
-👨‍💻 Developed By
-
-DEPI Data Analysis Team
+<p><strong>DEPI Data Analysis Team</strong></p>
